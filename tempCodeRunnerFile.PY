@@ -1,0 +1,1 @@
+                elif "translate" in query:
